@@ -8,6 +8,7 @@
 #define D6    3
 #define D7    2
 
+// The LCD instance
 LiquidCrystal LCD(RS, EN, D4, D5, D6, D7);
 
 void setup() {
